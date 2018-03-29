@@ -1,0 +1,2 @@
+# snasca-free
+free repository
